@@ -1,3 +1,6 @@
 <Solution>
+  <Project Path="../AzureAI_SentimentAnalysis/AzureAIFarePrediction/AzureAIFarePrediction.csproj" />
+  <Project Path="../AzureAI_SentimentAnalysis/AzureAI_ImageClassification/AzureAI_ImageClassification.csproj" />
+  <Project Path="../AzureAI_SentimentAnalysis/AzureAI_SentimentAnalysis/AzureAI_SentimentAnalysis.csproj" />
   <Project Path="AzureAI_IssueClassification/AzureAI_IssueClassification.csproj" />
 </Solution>
