@@ -3,4 +3,6 @@
   <Project Path="../AzureAI_SentimentAnalysis/AzureAI_ImageClassification/AzureAI_ImageClassification.csproj" />
   <Project Path="../AzureAI_SentimentAnalysis/AzureAI_SentimentAnalysis/AzureAI_SentimentAnalysis.csproj" />
   <Project Path="AzureAI_IssueClassification/AzureAI_IssueClassification.csproj" />
+  <Project Path="MLModel1_WebApi1/MLModel1_WebApi1.csproj" />
+  <Project Path="modelbuilder/modelbuilder.csproj" Id="a9cc217d-b137-4b5a-9220-eb77edf7e1ba" />
 </Solution>
